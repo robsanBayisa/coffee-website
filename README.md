@@ -14,6 +14,4 @@ And you can get information about the store address and social media.
 <b>DIFFICULTY</b>
 `Medium`
 
-💙 Thanks to see more my portfolio and like this.
-
 ![preview img](/preview.png)
